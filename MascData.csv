@@ -1,0 +1,73 @@
+﻿sample_num,Herbarium,Accession,Barcode,CurrentID,ID2,Island,Collector,Collection,Date,Locality,Condition,pedicel_L,epicalyx_lobe_L,epicalyx_lobe_W,calyx_lobe_L,fused_L,W_bw_calyx_tips,flower_L,cluster_6var
+1,CBNM,---,---,boryanus,boryanus,Reunion,"Rhumeur, A",106,27-Mar-23,Petite Plaine,live plant,31.51,10.21,2.17,9.97,7.12,4.53,41.73,1
+2,CBNM,---,---,boryanus,boryanus,Reunion,"Rhumeur, A",20,27-Mar-23,National 3 (Plaine des Palmistes),live plant,21.67,6.53,2.34,10.42,7.13,4.47,38.66,1
+3,CBNM,---,---,boryanus,boryanus,Reunion,"Rhumeur, A",18,4-Apr-23,Mare Longue,live plant,24.39,7.26,1.66,10.77,7.72,4.58,41.58,1
+4,CBNM,---,---,boryanus,boryanus,Reunion,"Rhumeur, A",99,4-Apr-23,Mourouvin,live plant,40.23,11.8,1.95,14.41,9.56,5.36,46.88,1
+5,K,18031,---,boryanus,boryanus,Reunion,Coode,4178,23-Nov-73,Mare Longue,herbarium specimen,13.13,9.88,2.43,8.2,6.16,5.74,29.07,1
+6,K,---,---,boryanus,boryanus,Reunion,Friedmann,3069,10-Dec-77,Mare Longue,herbarium specimen,11.18,7.5,1.79,9.69,8.35,5.1,34.03,1
+7,MO,MO-2747340,---,boryanus,boryanus,Reunion,Lorence,2730,13-Jul-79,Brûlé de Baril (south Réunion); lower montane wet forest over lava flows.,herbarium specimen,21,11,2.3,7.1,6.1,5,30.1,1
+8,P,---,P06624143,boryanus,boryanus,Reunion,"Capuron, R",28189,2-Feb-68,"Ile de la Réunion: Forêt de Mare Longue, au-dessus de Saint-Philippe",herbarium specimen,19.92,9.65,0.87,7.67,6.44,5.5,31.86,1
+9,P,---,P06624146,boryanus,boryanus,Reunion,Friedmann,3069,10-Feb-77,"St. Philippe, Marelongue",herbarium specimen,27.57,11.26,2.18,11.82,9.52,7.28,42.77,1
+10,P,---,P06624155,boryanus,boryanus,Reunion,Cadet,2832,25-Nov-70,Takamaka,herbarium specimen,11.66,9.39,1.71,11.06,8.59,5.25,35.41,1
+11,P,---,P06624161,boryanus,boryanus,Reunion,Friedmann,1991,Nov-72,Marelongue,herbarium specimen,18.14,8.49,1.02,9.15,7.16,4.77,37.07,1
+12,P,---,P06624145,boryanus,boryanus,Reunion,Friedmann,3069,10-Dec-77,Mare Longue,herbarium specimen,19.97,10.87,2.03,8.76,6.97,4.28,35.52,1
+13,REU,---,REU016756,boryanus,boryanus,Reunion,Friedmann,3069,10-Dec-77,Mare Longue,herbarium specimen,19.85,10.21,2.29,8.57,6.99,5.21,34.23,1
+14,G,G-DC-217892/1,G00218968,boryanus,boryanus,Reunion,Bory,s.n.,s.d.,s.l.,herbarium specimen,,10.52,2.22,9.05,6.59,4.95,35.05,1
+15,MAU,MAU-13176,MAU0016115,boryanus,dargentii,Mauritius,Wiehe,s.n.,21-Dec-68,Tamarin Falls,herbarium specimen,38.95,12.89,1.9,14.83,10,5.11,46.22,1
+16,MAU,MAU-13176,MAU0016116,boryanus,dargentii,Mauritius,Wiehe,s.n.,21-Dec-68,Tamarin Falls,herbarium specimen,33.92,12.18,3.72,12.86,9.38,5.61,44.57,1
+17,MAU,MAU-17672,MAU0016119,boryanus,dargentii,Mauritius,Lorence,1595,15-Jan-76,Gaulettes Serrées,herbarium specimen,34.1,9.48,1.38,13.78,8.21,6.08,43.61,1
+18,MAU,MAU-15234,MAU0016120,boryanus,dargentii,Mauritius,Edgerley,s.n.,5-Apr-72,Tamarin Falls,herbarium specimen,51.17,13.45,3.34,15.59,10.18,5.41,48.37,1
+19,MAU,MAU-22816,MAU0016122,boryanus,dargentii,Mauritius,Page,s.n.,11-Jun-97,Tamarin Falls,herbarium specimen,14.39,7.8,1.89,13.37,8.02,7.31,53.4,1
+20,MO,---,---,boryanus,dargentii,Mauritius,Mashburn,81,16-Mar-18,Gaulettes Serrées,herbarium specimen,54.5,10.3,1.9,15.6,9.6,7.1,53.6,1
+21,MO,---,---,boryanus,dargentii,Mauritius,Mashburn,82,16-Mar-18,Gaulettes Serrées,herbarium specimen,45.4,13.1,2.5,13.6,8.5,8.5,45.2,1
+22,MO,---,---,boryanus,dargentii,Mauritius,Mashburn,83,16-Mar-18,Gaulettes Serrées,herbarium specimen,43.2,11.7,2.1,13.9,9.6,7.9,50.9,1
+23,P,---,P06624181,boryanus,dargentii,Mauritius,s.n.,s.n.,s.d.,s.l.,herbarium specimen,66.58,11.72,1.81,15.12,10.01,6.89,46.4,1
+24,P,---,P06624182,boryanus,dargentii,Mauritius,Bosser,22423,17-Mar-78,Gaulettes Serrées,herbarium specimen,56.24,12.95,2.14,13.08,8.66,7.59,41.51,1
+25,K,18037,---,fragilis,fragilis,Mauritius,Ayres,s.n.,s.d.,s.l.,herbarium specimen,39.07,9.33,1.13,25.36,15.26,7.15,51.59,2
+26,K,---,---,fragilis,fragilis,Mauritius,Blackburn,s.n.,s.d.,s.l.,herbarium specimen,64.58,7.18,1.15,29.6,14.25,7.48,71.64,2
+27,K,---,---,fragilis,fragilis,Mauritius,Boivin,s.n.,s.d.,s.l.,herbarium specimen,32.17,8.41,0.9,30.69,15.73,5.7,62.3,2
+28,K,---,---,fragilis,fragilis,Mauritius,Bojer,s.n.,s.d.,s.l.,herbarium specimen,28.78,9.56,1.23,33.8,18.55,5.73,75.97,2
+29,MAU,MAU-15220,MAU0016166,fragilis,fragilis,Mauritius,Guého,s.n.,Dec-71,Corps de Garde,herbarium specimen,73.32,14.27,1.47,25.42,16.12,7.22,79.08,2
+30,MAU,MAU-121,MAU0016162,fragilis,fragilis,Mauritius,Bojer,s.n.,s.d.,Port Louis (Letard),herbarium specimen,38.43,12.45,1.43,34.63,18.82,12.71,82.2,2
+31,MAU,MAU-15220,MAU0016165,fragilis,fragilis,Mauritius,Guého,s.n.,Dec-71,Corps de Garde,herbarium specimen,54.16,11.77,2.79,26.58,16.12,11.1,77.75,2
+32,MAU,MAU-20430,MAU0016168,fragilis,fragilis,Mauritius,Lecordier,s.n.,Jul-82,Mt. Ory,herbarium specimen,22.59,4.77,1.9,18.81,13.45,7.32,58.91,2
+33,MAU,MAU-20430,MAU0016169,fragilis,fragilis,Mauritius,Lecordier,s.n.,Jul-82,Mt. Ory,herbarium specimen,28.17,5.17,1.93,19.02,6.92,11.44,57.68,2
+34,MAU,MAU-20430,MAU0016170,fragilis,fragilis,Mauritius,Lecordier,s.n.,Jul-82,Mt. Ory,herbarium specimen,42.29,4.95,1.96,20.36,12.34,10.12,56.41,2
+35,MO,---,---,fragilis,fragilis,Mauritius,Mashburn,100,27-Mar-18,Letard,herbarium specimen,56.8,11.8,1.8,27.7,16.9,7.4,54.8,2
+36,MO,---,---,fragilis,fragilis,Mauritius,Mashburn,96,24-Mar-18,Corps de Garde,herbarium specimen,30.4,8.3,1.8,22.2,13.7,9.1,72.2,2
+37,MPU,---,MPU764437,fragilis,fragilis,Mauritius,Chapelier,s.n.,s.d.,Trois Mamelles,herbarium specimen,19.6,5.59,1.06,19.15,12.73,4.53,60.25,2
+38,P,---,P030959,fragilis,fragilis,Mauritius,Boivin,s.n.,Sep-1849,Mt de Port Louis (Letard),herbarium specimen,16.12,6.89,1.71,24.56,14.26,8.42,68.78,2
+39,P,---,P030960,fragilis,fragilis,Mauritius,Boivin,s.n.,s.d.,s.l.,herbarium specimen,30.6,11.49,1.43,31.96,15.93,12.32,66.35,2
+40,P,---,P06624248,fragilis,fragilis,Mauritius,Boivin,s.n.,s.d.,s.l.,herbarium specimen,14.58,5.32,1.58,15.31,11.06,8.5,54.77,2
+41,P,---,P06624249,fragilis,fragilis,Mauritius,Boivin,s.n.,s.d.,s.l.,herbarium specimen,16.64,6.41,1.7,16.49,13.06,9.6,51.38,2
+42,P,---,P06624367,fragilis,fragilis,Mauritius,Friedmann,2870,Jun-76,Corps de Garde,herbarium specimen,12.73,5.62,1.75,17.01,12.07,9.99,60.35,2
+43,P,---,P06701693,fragilis,fragilis,Mauritius,Moquin-Tandon,s.n.,29-Nov-1845,s.l.,herbarium specimen,43.42,10.82,1.4,21.12,12.85,4.35,59.35,2
+44,G,G-DC-217898/1,G00218958,fragilis,fragilis,Reunion,Bory,s.n.,s.d.,s.l.,herbarium specimen,35.28,9.77,1.77,25.09,13.36,8.7,58.14,2
+45,CBNM,4993,---,boryanus,igneus,Reunion,Anxionnaz,s.n.,29-Jun-18,St. Leu,herbarium specimen,15.7,5.42,0.94,8.92,6.61,4.61,31.96,1
+46,K,---,---,boryanus,igneus,Reunion,Friedmann,864,6-Dec-70,Dos d'Ane,herbarium specimen,20.29,10.31,1.61,11.8,8,4.61,43.58,1
+47,K,---,---,boryanus,igneus,Reunion,Friedmann,1716,Jul-72,Dos d'Ane,herbarium specimen,26.71,11.93,1.96,13.83,10.72,5.3,37.12,1
+48,MAU,MAU-20220,MAU0016124,boryanus,igneus,Reunion,Friedmann,1716,Jul-72,Dos d'Anne,herbarium specimen,25.96,15.23,1.62,14.47,9.46,6.63,38.36,1
+49,MO,---,---,boryanus,igneus,Reunion,Mashburn,243,8-Apr-22,Sentier Bayonne,herbarium specimen,30.4,11.9,1.7,13.5,9.7,5.1,44.1,1
+50,MO,---,---,boryanus,igneus,Reunion,Mashburn,246,9-Apr-22,Sentier Cap Noir,herbarium specimen,47.8,11.9,1.8,14,8.9,6.7,52.6,1
+51,MO,---,---,boryanus,igneus,Reunion,Mashburn,247,9-Apr-22,Sentier Cap Noir,herbarium specimen,51.1,16,1.2,11.8,8,4.5,43.1,1
+52,MO,---,---,boryanus,igneus,Reunion,Mashburn,248,10-Apr-22,Parc du Colorado,herbarium specimen,28.6,11.8,2,11.4,8.2,5.6,47.6,1
+53,MO,---,---,boryanus,igneus,Reunion,Mashburn,249,10-Apr-22,Parc du Colorado,herbarium specimen,56.1,15.2,2,13.4,8.3,6.6,37.4,1
+54,MO,---,---,boryanus,igneus,Reunion,Mashburn,251,11-Apr-22,Sans Soucis,herbarium specimen,55.1,14.1,1.8,13.5,9.6,7.8,51.7,1
+55,MO,---,---,boryanus,igneus,Reunion,Mashburn,259,13-Apr-22,Aurere,herbarium specimen,38,13.3,1.3,11.8,8.6,6.1,38.2,1
+56,MO,---,---,boryanus,igneus,Reunion,Mashburn,260,13-Apr-22,Aurere,herbarium specimen,44.1,10.8,1.7,13.5,8.4,6,36.1,1
+57,MO,---,---,boryanus,igneus,Reunion,Mashburn,261,13-Apr-22,Aurere,herbarium specimen,45.1,14.3,1.7,12.8,9.2,6,43.9,1
+58,MO,---,---,boryanus,igneus,Reunion,Mashburn,262,13-Apr-22,Aurere,herbarium specimen,30.3,8.8,1.2,14.9,8.8,5.9,39.3,1
+59,MO,---,---,boryanus,igneus,Reunion,Mashburn,263,13-Apr-22,Aurere,herbarium specimen,44.1,14.1,2.3,11.4,7.3,7,41.4,1
+60,MO,---,---,boryanus,igneus,Reunion,Mashburn,264,13-Apr-22,Aurere,herbarium specimen,49.4,10.7,1.9,10.4,7.2,6.6,43.3,1
+61,MO,---,---,boryanus,igneus,Reunion,Mashburn,273,17-Apr-22,Mon Ilet,herbarium specimen,36.4,6.2,1.5,10.3,7.1,6.3,35.2,1
+62,MO,MO-3743899,---,boryanus,igneus,Reunion,Friedmann,920,3-Feb-71,"Plaine d'Affouches, La Réunion",herbarium specimen,37.6,11,2.5,7.4,5.8,5.7,40.1,1
+63,P,---,P02290573,fragilis,igneus,Reunion,Thomas,358,2-Aug-16,"Rivière des Galets Bras de Sainte Suzanne, Commune de La Possession; -21°00'22""/55°25'57""",herbarium specimen,16.73,9.28,1.58,12.91,9.05,4.45,40.54,1
+64,P,---,P06624144,boryanus,igneus,Reunion,Friedmann,2676,2-Mar-75,Piste Pleine d'Affouches,herbarium specimen,23.7,9.89,3.12,10.04,7.54,7.56,40.08,1
+65,P,---,P06624148,boryanus,igneus,Reunion,Girard,s.n.,Sep-93,Sentier Bayonne,herbarium specimen,35.98,9.33,1.5,16.3,9.89,6.43,57.02,1
+66,P,---,P06624151,boryanus,igneus,Reunion,Friedmann,2295,Mar-74,Dos d'Ane,herbarium specimen,54.44,12.76,1.57,10.87,6.72,6.53,43.63,1
+67,P,---,P06624154,boryanus,igneus,Reunion,Cadet,3667,20-Jul-72,La Montagne - Rivière St. Denis,herbarium specimen,19.85,9.64,1.43,8.36,5.74,5.1,32.6,1
+68,P,---,P06624157,boryanus,igneus,Reunion,Friedmann,864,6-Dec-70,Dos d'Ane,herbarium specimen,19.44,12.09,1.36,10.68,7.64,3.98,42.29,1
+69,P,---,P06624158,boryanus,igneus,Reunion,Friedmann,920,3-Feb-71,Plaine d'Affouche,herbarium specimen,10.49,12.87,2.11,8.23,5.46,7.97,32.75,1
+70,P,---,P06624160,boryanus,igneus,Reunion,Friedmann,1716,Jul-72,Dos d'Ane,herbarium specimen,14.63,9.23,1.88,13.46,9.11,6.13,48.64,1
+71,P,---,P06624174,boryanus,igneus,Reunion,Bosser,21664,20-Mar-74,Dos d'Ane,herbarium specimen,56.3,16.63,2,11.79,8.33,7.07,43.34,1
+72,REU,---,REU016757,boryanus,igneus,Reunion,Friedmann,1716,Jul-72,Dos d'Ane,herbarium specimen,12.81,10.6,1.33,12.16,9.366,6.25,37.3,1
